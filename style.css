@@ -1,0 +1,28 @@
+body {
+    background:#2D2D34;
+}
+#top{
+    color:#6E495C;
+}
+.header2{
+    color:#6E495C;
+}
+.header3{
+    color:#C09BAC;
+}
+.header4{
+    color:#E3C9D1;
+}
+.text{
+    color:#E2DCDE;
+}
+.footer{
+    color:#E3C9D1;
+}
+nav a{
+    color:#C09BAC;
+    background:#6E495C;
+}
+a{
+    color:#A16883;
+}
